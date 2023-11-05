@@ -1,5 +1,8 @@
 # telco-chat
-How to run the telco-chat
+
+Use the requirements.txt file to install the dependencies
+
+Then use the following commands to run telco-chat
 
 cd  ~/Desktop/chatappp/djangochat/djangochat
 
